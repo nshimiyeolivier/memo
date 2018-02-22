@@ -1,0 +1,13 @@
+.container{
+
+}
+
+.cours{
+  & li{
+    list-style: none;
+    margin: 10px;
+  }
+  & a{
+    text-decoration: none;
+  }
+}
