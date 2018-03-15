@@ -1,13 +1,20 @@
 .container{
-
-}
-
-.cours{
-  & li{
-    list-style: none;
-    margin: 10px;
-  }
-  & a{
-    text-decoration: none;
-  }
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 10%;
+    margin:5%;
+    background-color: #adad85;
+    h3{
+      color: black;
+    }
+    & li{
+      list-style: none;
+      margin: 10px;
+    }
+    & a{
+      text-decoration: none;
+      color: white;
+    }
+    & a:hover{
+      color: black;
+    }
 }

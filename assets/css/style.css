@@ -1,7 +1,17 @@
-.cours li {
-  list-style: none;
-  margin: 10px; }
-.cours a {
-  text-decoration: none; }
+.container {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-top: 10%;
+  margin: 5%;
+  background-color: #adad85; }
+  .container h3 {
+    color: black; }
+  .container li {
+    list-style: none;
+    margin: 10px; }
+  .container a {
+    text-decoration: none;
+    color: white; }
+  .container a:hover {
+    color: black; }
 
 /*# sourceMappingURL=style.css.map */
